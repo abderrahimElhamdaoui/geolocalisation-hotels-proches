@@ -35,7 +35,6 @@
             </ul>
         </li>
         </ul>
-
         <h2>Technologies Utilisées:</h2>
         <ul>
         <li>Neo4j
@@ -94,6 +93,5 @@
             </ul>
         </li>
         </ul>
-
     </body>
 </html>
